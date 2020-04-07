@@ -1,12 +1,29 @@
 {
   "main": {
     "name":"Brian WK Huffman",
-    "occupation":"Kitchen Manager @ Ruth Chris Steakhouse",
-    "description":"With thirteen years of hard work experience in reputable kitchens throughout Oahu, I am now looking to pursue a career within tech",
+    "occupation":"Kitchen Manager @ Ruth Chris Steakhouse Waikiki",
+    "description":"With thirteen years of work experience in reputable kitchens throughout Oahu, I am now seeking to pursue my passion as a software developer!",
     "image":"profilepic.jpg",
-    "bio":"Hard working, passionate individual with a strong innate desire to learn and grow within the tech industry. With years of hardships and experience working in fast paced environments I have never been a stranger to hard work.",
+    "bio":"In 2019 I decided to enroll myself into a software development bootcamp. Challenging as it may be for someone with no prior experience, I quickly found myself enjoying each topic and framework. Working in the restaurant industry has led me to develop desirable skills such as strong oral communication with team members, efficient use of time and thoughtful planning. I believe these skills can be translated in the tech field and easily make me a valuable pick.",
+    "hobbies": [
+      {
+        "name": "Building GUNPLA" 
+      },
+      {
+        "name": "Reading comics/etc"
+      },
+      {
+        "name": "Cooking"
+      },
+      {
+        "name": "PS4/PC"
+      },
+      {
+        "name": "Avid gym goer"
+      }
+    ],
     "email": "brianwkhuffman@gmail.com",
-    "phone": "-",
+    "phone": "PSN/Steam: T3hThirteen37",
     "address":{
       "street":"",
       "city":"Honolulu",
