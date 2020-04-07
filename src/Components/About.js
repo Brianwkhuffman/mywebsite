@@ -13,9 +13,10 @@ class About extends Component {
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
+      var hobbies = this.props.data.hobbies;
    }
 
-    return (
+   return (
       <section id="about">
       <div className="row">
          <div className="three columns">
@@ -25,6 +26,14 @@ class About extends Component {
             <h2>About Me</h2>
 
             <p>{bio}</p>
+
+            <h2>Hobbies</h2>
+            <ul>
+               {hobbies && hobbies.map(hobby => {
+                  return (<li key={hobby.name}>{hobby.name}</li>)
+               })}
+            </ul>
+
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
