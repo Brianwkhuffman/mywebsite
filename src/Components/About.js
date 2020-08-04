@@ -43,7 +43,7 @@ class About extends Component {
 						         Located in {city} {state}, {zip}
                    </span><br />
 						   <span>{phone}</span><br />
-                        <a href='mailto:brianwkhuffman'>Email me! {email}</a>
+                        <a href='mailto:brianwkhuffman@gmail.com'>Email me! {email}</a>
 					   </p>
                </div>
             </div>
