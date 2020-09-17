@@ -1,13 +1,13 @@
 {
   "main": {
-    "name":"Brian WK Huffman",
-    "occupation":"Kitchen Manager @ Ruth Chris Steakhouse Waikiki",
-    "description":"With thirteen years of work experience in reputable kitchens throughout Oahu, I am now seeking to pursue my passion as a software developer!",
-    "image":"profilepic.jpg",
-    "bio":"In 2019 I decided to enroll myself into a software development bootcamp. Challenging as it may be for someone with no prior experience, I quickly found myself enjoying each topic and framework. Working in the restaurant industry has led me to develop desirable skills such as strong oral communication with team members, efficient use of time and thoughtful planning. I believe these skills can be translated in the tech field and easily make me a valuable pick.",
+    "name": "Brian WK Huffman",
+    "occupation": "Kitchen Manager @ Ruth Chris Steakhouse Waikiki",
+    "description": "With thirteen years of work experience in reputable kitchens throughout Oahu, I am now seeking to pursue my passion as a software developer!",
+    "image": "profilepic.jpg",
+    "bio": "In 2019 I decided to enroll myself into a software development bootcamp. Challenging as it may be for someone with no prior experience, I quickly found myself enjoying each topic and framework. Working in the restaurant industry has led me to develop desirable skills such as strong oral communication with team members, efficient use of time and thoughtful planning. I believe these skills can be translated in the tech field and easily make me a valuable pick.",
     "hobbies": [
       {
-        "name": "Building GUNPLA" 
+        "name": "Building GUNPLA"
       },
       {
         "name": "Reading comics/etc"
@@ -24,63 +24,63 @@
     ],
     "email": "brianwkhuffman@gmail.com",
     "phone": "PSN/Steam: T3hThirteen37",
-    "address":{
-      "street":"",
-      "city":"Honolulu",
-      "state":"Hawaii",
+    "address": {
+      "street": "",
+      "city": "Honolulu",
+      "state": "Hawaii",
       "zip": "96821"
     },
-    "social":[
+    "social": [
       {
-        "name":"twitter",
-        "url":"http://twitter.com/the__briman",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "http://twitter.com/the__briman",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/brianwkhuffman/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/brianwkhuffman/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/thebriiiman",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "http://instagram.com/thebriiiman",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"http://github.com/brianwkhuffman",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "http://github.com/brianwkhuffman",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":" ",
-    "education":[
+  "resume": {
+    "skillmessage": " ",
+    "education": [
       {
-        "school":"DevLeague",
-        "degree":"Software Development",
-        "graduated":"May - December 2019",
-        "description":"Students develop hands-on experience in frameworks like Angular, React, and Node, as well as managing version control in Git, wrangling the command line terminal and deploying using AWS."
+        "school": "DevLeague",
+        "degree": "Software Development",
+        "graduated": "May - December 2019",
+        "description": "Students develop hands-on experience in frameworks like Angular, React, and Node, as well as managing version control in Git, wrangling the command line terminal and deploying using AWS."
       },
       {
-        "school":"Kapiolani Community College",
-        "degree":"Culinary Arts",
-        "graduated":"---",
-        "description":"Enrolled for Culinary Arts in 2016."
+        "school": "Kapiolani Community College",
+        "degree": "Culinary Arts",
+        "graduated": "---",
+        "description": "Enrolled for Culinary Arts in 2016."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Ruth Chris Steakhouse Waikiki",
-        "title":"Key Employee/Kitchen Manager",
-        "years":"2011-2013 &  Jan 2016 - Present",
+        "company": "Ruth Chris Steakhouse Waikiki",
+        "title": "Key Employee/Kitchen Manager",
+        "years": "2011-2013 &  Jan 2016 - Present",
         "description": "Maintain a strong, positive relationship with managenent team. Inventory logging/Sales reporting. Manage & oversee BOH during service. Work as a team efficiently, effectively to produce quality products. Knowledge of proper food handling/sanitization as well as restaraunt recipes. Handle high volume work load."
       },
       {
-        "company":"Natsunoya Tea House",
-        "title":"Lead Banquet Cook",
-        "years":"May 2013 - May 2014",
-        "description":"Ordering of food products. Accurately calculate food cost to make quotas. Ensure family standards are always met."
+        "company": "Natsunoya Tea House",
+        "title": "Lead Banquet Cook",
+        "years": "May 2013 - May 2014",
+        "description": "Ordering of food products. Accurately calculate food cost to make quotas. Ensure family standards are always met."
       },
       {
         "company": "Don Ho's Island Grill",
@@ -89,66 +89,72 @@
         "description": "Keep friendly attitude in an open kitchen. Use and maintain restaraunt equipment BoH equipment. Learn new techniques quickly/efficiently."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git | Node",
-        "level":"60%"
+        "name": "Git | Node",
+        "level": "60%"
       },
       {
-        "name":"HTML5",
-        "level":"75%"
+        "name": "HTML5",
+        "level": "75%"
       },
       {
-        "name":"SASS | CSS | Handlebars",
-        "level":"60%"
+        "name": "SASS | CSS | Handlebars",
+        "level": "60%"
       },
       {
-        "name":"JavaScript",
-        "level":"70%"
+        "name": "JavaScript",
+        "level": "70%"
       },
       {
-        "name":"React | Redux | Angular",
-        "level":"45%"
+        "name": "React | Redux | Angular",
+        "level": "45%"
       },
       {
-        "name":"PostgreSQL | Docker",
-        "level":"50%"
+        "name": "PostgreSQL | Docker",
+        "level": "50%"
       },
       {
-        "name":"Knex | Bookshelf",
-        "level":"45%"
+        "name": "Knex | Bookshelf",
+        "level": "45%"
       },
       {
-        "name":"Axios | Passport | Bcrypt | Redis",
-        "level":"25%"
+        "name": "Axios | Passport | Bcrypt | Redis",
+        "level": "25%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"fitworks.app",
-        "category":"DevLeague Final Project",
-        "image":"fitworks.jpg",
-        "url":"https://fitworks.app"
+        "title": "fitworks.app",
+        "category": "DevLeague Final Project",
+        "image": "fitworks.jpg",
+        "url": "https://fitworks.app"
       },
       {
-        "title":"Super Pixel Painter",
-        "category":"Pixel Painter Project",
-        "image":"pixelpainter.jpg",
-        "url":"https://brianwkhuffman.github.io/PixelPainter"
+        "title": "Super Pixel Painter",
+        "category": "Game",
+        "image": "pixelpainter.jpg",
+        "url": "https://brianwkhuffman.github.io/PixelPainter"
+      },
+      {
+        "title": "Minesweeper clone",
+        "category": "Game",
+        "image": "minesweeper.jpg",
+        "url": "https://brianwkhuffman.github.io/minesweeper"
       }
     ]
   },
-  "quotes":{
-    "quotes":[
+  "quotes": {
+    "quotes": [
       {
-        "text":"Kept ya waiting, huh",
-        "user":"Snake~ Metal Gear Soild"
+        "text": "Kept ya waiting, huh",
+        "user": "Snake~ Metal Gear Soild"
       },
       {
-        "text":"No matter how dark the night, the morning always comes.",
-        "user":"Lulu~ Final Fantasy X"
+        "text": "No matter how dark the night, the morning always comes.",
+        "user": "Lulu~ Final Fantasy X"
       }
     ]
   }
