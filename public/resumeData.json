@@ -89,7 +89,7 @@
         "description": "Keep friendly attitude in an open kitchen. Use and maintain restaraunt equipment BoH equipment. Learn new techniques quickly/efficiently."
       }
     ],
-    "skills": [
+    "softwareSkills": [
       {
         "name": "Git | Node",
         "level": "60%"
@@ -107,11 +107,15 @@
         "level": "70%"
       },
       {
+        "name": "Express",
+        "level": "70%"
+      },
+      {
         "name": "React | Redux | Angular",
         "level": "45%"
       },
       {
-        "name": "PostgreSQL | Docker",
+        "name": "PostgreSQL | MongoDB | Docker",
         "level": "50%"
       },
       {
