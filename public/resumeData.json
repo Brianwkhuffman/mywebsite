@@ -10,16 +10,13 @@
         "name": "Building GUNPLA"
       },
       {
-        "name": "Reading comics/etc"
+        "name": "Comics"
       },
       {
         "name": "Cooking"
       },
       {
         "name": "PS4/PC"
-      },
-      {
-        "name": "Avid gym goer"
       }
     ],
     "email": "brianwkhuffman@gmail.com",
@@ -91,40 +88,34 @@
     ],
     "softwareSkills": [
       {
-        "name": "Git | Node",
-        "level": "60%"
+        "name": "Git | Node"
       },
       {
-        "name": "HTML5",
-        "level": "75%"
+        "name": "HTML5"
       },
       {
-        "name": "SASS | CSS | Handlebars",
-        "level": "60%"
+        "name": "SASS | CSS | Handlebars"
       },
       {
-        "name": "JavaScript",
-        "level": "70%"
+        "name": "JavaScript"
       },
       {
-        "name": "Express",
-        "level": "70%"
+        "name": "Express"
       },
       {
-        "name": "React | Redux | Angular",
-        "level": "45%"
+        "name": "React | Redux | Angular"
       },
       {
-        "name": "PostgreSQL | MongoDB | Docker",
-        "level": "50%"
+        "name": "PostgreSQL | Docker"
       },
       {
-        "name": "Knex | Bookshelf",
-        "level": "45%"
+        "name": "MongoDB | Mongoose"
       },
       {
-        "name": "Axios | Passport | Bcrypt | Redis",
-        "level": "25%"
+        "name": "Knex | Bookshelf"
+      },
+      {
+        "name": "Axios | Passport | Bcrypt | Redis"
       }
     ]
   },
@@ -133,19 +124,19 @@
       {
         "title": "fitworks.app",
         "category": "DevLeague Final Project",
-        "image": "fitworks.jpg",
+        "image": "boo",
         "url": "https://fitworks.app"
       },
       {
         "title": "Super Pixel Painter",
         "category": "Game",
-        "image": "pixelpainter.jpg",
+        "image": "boo",
         "url": "https://brianwkhuffman.github.io/PixelPainter"
       },
       {
         "title": "Minesweeper clone",
         "category": "Game",
-        "image": "minesweeper.jpg",
+        "image": "boo",
         "url": "https://brianwkhuffman.github.io/minesweeper"
       }
     ]
